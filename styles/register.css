@@ -1,0 +1,307 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.register-VYG {
+  width: 100%;
+  height: 80rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.register-VYG .group-6039-deU {
+  width: 44.6rem;
+  height: 71.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.register-VYG .group-6039-deU .vector-1-a3v {
+  width: 41.4rem;
+  height: 67.77rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.register-VYG .group-6039-deU .noise-texture-urt {
+  opacity: 0.2;
+  width: 43rem;
+  height: 68.2067rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-image: url('../assets/noise-texture.png');
+  background-repeat: repeat;
+  background-size: 21%;
+}
+.register-VYG .group-6039-deU .moveease-EPN {
+  width: 30.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 3.4rem;
+  font-size: 5.6rem;
+  font-weight: 700;
+  line-height: 0.5;
+  letter-spacing: 0.168rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .group-6039-deU .sign-up-jL8 {
+  width: 15.1rem;
+  height: 6rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 14.7rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .email-ehz {
+  width: 5.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 24.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .sebastianondrusgmailcom-Zpx {
+  width: 24rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 29.1rem;
+  font-size: 1.5979rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .line-5-UBE {
+  width: 32.5rem;
+  height: 0;
+  position: absolute;
+  left: 1.6rem;
+  top: 31.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.register-VYG .phone-Qqa {
+  width: 6.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 34.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .item-0914543865-XfJ {
+  width: 9.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 38.5rem;
+  font-size: 1.5979rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .line-6-37r {
+  width: 32.5rem;
+  height: 0;
+  position: absolute;
+  left: 1.6rem;
+  top: 41rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.register-VYG .password-nLL {
+  width: 9.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 43.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .item--VkY {
+  width: 9.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 47.9rem;
+  font-size: 1.5979rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .line-7-c4U {
+  width: 32.5rem;
+  height: 0;
+  position: absolute;
+  left: 1.6rem;
+  top: 50.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.register-VYG .confirm-password-A5z {
+  width: 18.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 52.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .item--HRW {
+  width: 9.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 57.4rem;
+  font-size: 1.5979rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .line-8-oPr {
+  width: 32.5rem;
+  height: 0;
+  position: absolute;
+  left: 1.6rem;
+  top: 59.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.register-VYG .auto-group-p9qg-kZz {
+  box-sizing: border-box;
+  padding: 1.7rem 2.3rem 3.8rem 2.4rem;
+  width: 36rem;
+  height: 20.1rem;
+  position: absolute;
+  left: 0;
+  top: 59.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.register-VYG .auto-group-p9qg-kZz .group-3-4Kn {
+  margin: 0rem 8.2rem 6.6rem 8.2rem;
+  width: calc(100% - 16.4rem);
+  height: 4rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.5979rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #77007a;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.register-VYG .auto-group-p9qg-kZz .auto-group-fshe-jB2 {
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.register-VYG .auto-group-p9qg-kZz .auto-group-fshe-jB2 .group-3-HiL {
+  margin-right: 1.5rem;
+  width: 14.9rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.register-VYG .auto-group-p9qg-kZz .auto-group-fshe-jB2 .group-3-HiL .sign-up-FQG {
+  width: 6.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.35rem;
+  top: 0.8143rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5979rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #77007a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-VYG .auto-group-p9qg-kZz .auto-group-fshe-jB2 .group-3-HiL .rectangle-1-krp {
+  width: 14.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.3rem #77007a;
+  box-sizing: border-box;
+  box-shadow: 0 0 0.4rem #ff8d83;
+  border-radius: 5rem;
+}
+.register-VYG .auto-group-p9qg-kZz .auto-group-fshe-jB2 .group-4-4cc {
+  width: 14.9rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5979rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #77007a;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

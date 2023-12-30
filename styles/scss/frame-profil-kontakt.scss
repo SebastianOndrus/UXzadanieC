@@ -1,0 +1,432 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.frame-profil-kontakt-xZJ {
+  background-color: #f5f5f5;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+  .auto-group-fntc-hWt {
+    align-items: center;
+    width: 100%;
+    height: 5.7rem;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    font-weight: 700;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    background-color: #77007a;
+    flex-shrink: 0;
+  }
+  .auto-group-awts-11n {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 4.3rem 5.1rem 17.6rem 4.9rem;
+
+    .auto-group-hhfa-veY {
+      margin-bottom: 2.3rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      border-radius: 0.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 1.3rem 0.3rem 0.3rem 0.5rem;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      border: solid 0.05rem #000000;
+      background-color: #bdf7ff;
+
+      .icon-person-outline-eqS {
+        width: 3.2308rem;
+        height: 3.3175rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 0.469rem 1.082rem 0rem;
+      }
+      .auto-group-yd3s-NFe {
+        margin-top: 0.6rem;
+        width: 21.5rem;
+        height: 3.8rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .ondrus-6xL {
+          width: 7.6rem;
+          height: 3rem;
+          left: 10.3rem;
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.5;
+          white-space: nowrap;
+          position: absolute;
+          top: 0;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .sebastian-Qi8 {
+          white-space: nowrap;
+          width: 10.5rem;
+          position: absolute;
+          left: 0;
+          font-size: 2rem;
+          line-height: 1.5;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          height: 3rem;
+          top: 0;
+          font-weight: 700;
+        }
+        .sebastianondrusgmailcom-L5z {
+          top: 2rem;
+          font-weight: 600;
+          line-height: 1.5;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 18.6rem;
+          height: 1.8rem;
+          position: absolute;
+          left: 2.9rem;
+          font-size: 1.2rem;
+          color: rgba(0, 0, 0, 0.6000000238);
+        }
+      }
+    }
+    .edit-button-mh6 {
+      box-sizing: border-box;
+      display: flex;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      background-color: #ffffff;
+      flex-shrink: 0;
+      border-radius: 0.4rem;
+      margin: 0rem 5rem 1.4rem 5rem;
+      padding: 0.5rem 4.7rem 0.4rem 0.6rem;
+      width: calc(100% - 10rem);
+      align-items: center;
+      border: solid 0.05rem #000000;
+
+      .icon-user-edit-5Bz {
+        margin: 0rem 0.8rem 0.1rem 0rem;
+        width: 2.4998rem;
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .upravi-profil-Bkp {
+        margin-top: 0.4rem;
+        line-height: 1.5;
+        font-family: Poppins, 'Source Sans Pro';
+        flex-shrink: 0;
+        cursor: pointer;
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: #000000;
+        white-space: nowrap;
+      }
+    }
+    .log-out-button-43v {
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      background-color: #ffffff;
+      border-radius: 0.4rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      width: calc(100% - 10rem);
+      align-items: center;
+      border: solid 0.05rem #000000;
+      margin: 0rem 5rem 2.3rem 5rem;
+      padding: 0.7rem 5.6rem 0.4rem 0.8rem;
+      cursor: pointer;
+      display: flex;
+
+      .icon-sign-out-kBe {
+        flex-shrink: 0;
+        margin: 0rem 1.061rem 0.1rem 0rem;
+        width: 2.0393rem;
+        height: 1.8rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .odhlsi-sa-Nyi {
+        line-height: 1.5;
+        color: #000000;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.2rem;
+        font-size: 1.1rem;
+        font-weight: 600;
+      }
+    }
+    .frame-5-qsJ {
+      flex-direction: column;
+      flex-shrink: 0;
+      width: 100%;
+      row-gap: 0.6rem;
+      align-items: center;
+      display: flex;
+
+      .kontakt-nGk {
+        flex-shrink: 0;
+        width: 100%;
+        display: flex;
+        border: solid 0.05rem #000000;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        border-radius: 0.2rem;
+        box-sizing: border-box;
+        padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+        cursor: pointer;
+        align-items: center;
+        background-color: #bdf7ff;
+
+        .kontakt-7Zv {
+          font-size: 1.1rem;
+          font-weight: 600;
+          line-height: 2.5454545455;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 17.6rem;
+        }
+        .icon-chevron-right-FRE {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 0.0562rem;
+          width: 2rem;
+          height: 1.1438rem;
+          object-fit: contain;
+        }
+      }
+      .group-2-8E8 {
+        box-sizing: border-box;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: rgba(189, 247, 255, 0.3000000119);
+        border-radius: 0.2rem;
+        padding: 1.6rem 1.6rem 1.6rem 0.9rem;
+        width: 100%;
+        height: 14rem;
+        border: solid 0.05rem #000000;
+        flex-shrink: 0;
+
+        .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv {
+          max-width: 23.5rem;
+          font-size: 1rem;
+          font-weight: 600;
+          line-height: 2;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-0 {
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-1 {
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 2;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-2 {
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-3 {
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 2;
+            color: #000000;
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-4 {
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-5 {
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 2;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-6 {
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 2;
+            text-decoration-line: underline;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-7 {
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: 2;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-8 {
+          }
+          .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-9 {
+            line-height: 2;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1rem;
+            font-weight: 400;
+          }
+        }
+      }
+      .historia-tRa {
+        display: flex;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        flex-shrink: 0;
+        padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+        cursor: pointer;
+        align-items: center;
+        border: solid 0.05rem #000000;
+        background-color: #bdf7ff;
+        border-radius: 0.2rem;
+        box-sizing: border-box;
+        width: 100%;
+
+        .histria-objednvok-1WC {
+          font-weight: 600;
+          line-height: 2.5454545455;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 10.8rem;
+          font-size: 1.1rem;
+        }
+        .icon-chevron-right-jwz {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 0.0562rem;
+          width: 2rem;
+          height: 1.1438rem;
+          object-fit: contain;
+        }
+      }
+      .historia-RZv {
+        padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+        width: 100%;
+        display: flex;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: #bdf7ff;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        cursor: pointer;
+        align-items: center;
+        border: solid 0.05rem #000000;
+        border-radius: 0.2rem;
+
+        .nastavenia-mNt {
+          line-height: 2.5454545455;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 15.6rem;
+          font-size: 1.1rem;
+          font-weight: 600;
+        }
+        .icon-chevron-right-6g4 {
+          margin-bottom: 0.0562rem;
+          width: 2rem;
+          height: 1.1438rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .historia-Nda {
+        box-sizing: border-box;
+        width: 100%;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: #bdf7ff;
+        border-radius: 0.2rem;
+        padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        border: solid 0.05rem #000000;
+        flex-shrink: 0;
+
+        .najastejie-otzky-QaG {
+          line-height: 2.5454545455;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 11.2rem;
+          font-size: 1.1rem;
+          font-weight: 600;
+        }
+        .icon-chevron-right-YAg {
+          margin-bottom: 0.0562rem;
+          width: 2rem;
+          height: 1.1438rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+  }
+  .auto-group-dxec-2Lk {
+    align-items: center;
+    border: solid 0.1rem rgba(0, 0, 0, 0.8000000119);
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0.976rem 4.8rem 0.85rem 4.4rem;
+    display: flex;
+    width: 100%;
+    background-color: rgba(237, 237, 237, 0.8000000119);
+
+    .icon-contact-card-9RN {
+      width: 3.5665rem;
+      height: 2.7467rem;
+      cursor: pointer;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 8.634rem 0.18rem 0rem;
+    }
+    .icon-receipt-TS4 {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 8.616rem 0.126rem 0rem;
+      width: 2.7535rem;
+      height: 3.2rem;
+      cursor: pointer;
+      object-fit: contain;
+    }
+    .auto-group-trb6-ama {
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      width: 3.2308rem;
+      height: 4.1737rem;
+    }
+  }
+}

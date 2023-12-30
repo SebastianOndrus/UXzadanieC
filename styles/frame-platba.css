@@ -1,0 +1,463 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+  font-size: 1.6rem;
+  margin: 0 auto;
+  height: 100%;
+  background-color: #f5f5f5;
+}.frame-platba-dUp {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-meyi-Aje {
+  width: 100%;
+  height: 5.7rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #77007a;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx {
+  box-sizing: border-box;
+  padding: 4.3rem 5rem 40.2rem 5rem;
+  width: 43rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  width: 30.4rem;
+  row-gap: 2.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-QXW {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-QXW .meno-vlastnka-MxY {
+  margin-bottom: 0.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-QXW .group-6033-HbJ {
+  box-sizing: border-box;
+  padding: 1rem 15.7rem 1rem 1.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  background-color: #fffdff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-QXW .group-6033-HbJ .icon-profile-circled-1GQ {
+  margin-right: 0.9rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-QXW .group-6033-HbJ .sebastian-L3n {
+  margin-right: 0.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #77007a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-QXW .group-6033-HbJ .ondrus-4kU {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #77007a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-5fa {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-5fa .slo-karty-que {
+  margin-bottom: 0.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-5fa .group-6033-AS8 {
+  box-sizing: border-box;
+  padding: 1rem 15.3rem 1rem 1.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  background-color: #fffdff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-5fa .group-6033-AS8 .icon-credit-card-VUQ {
+  margin: 0rem 0.9rem 0.08rem 0rem;
+  width: 1.6rem;
+  height: 1.12rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .group-6034-5fa .group-6033-AS8 .item-4131-3545-1235-1245-QrG {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #77007a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c {
+  width: 100%;
+  height: 6.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6034-aPN {
+  margin-right: 2.2rem;
+  width: 14.1rem;
+  height: 100%;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6034-aPN .platnos-L7e {
+  margin-bottom: 0.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6034-aPN .auto-group-1ujn-UDr {
+  width: 100%;
+  height: 3.8rem;
+  position: relative;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6034-aPN .auto-group-1ujn-UDr .group-6033-1zU {
+  box-sizing: border-box;
+  padding: 1.3rem;
+  width: 14.1rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  background-color: #fffdff;
+  border-radius: 0.6rem;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6034-aPN .auto-group-1ujn-UDr .group-6033-1zU .icon-calendar-YUc {
+  width: 1.1368rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6034-aPN .auto-group-1ujn-UDr .mm-yy-n84 {
+  width: 4.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #77007a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6035-aZi {
+  width: 14.1rem;
+  height: 100%;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6035-aZi .cvv-WyA {
+  margin-bottom: 0.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-308-mUY .frame-309-E4c .group-6035-aZi .group-6033-Fvk {
+  width: 100%;
+  height: 3.8rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #77007a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  background-color: #fffdff;
+  border-radius: 0.6rem;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ {
+  margin: 0rem 4.5rem 2.554rem 0rem;
+  width: 25.3rem;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ .group-6037-kW8 {
+  margin: 0rem 11.1rem 2.454rem 0rem;
+  width: calc(100% - 11.1rem);
+  height: 1.8462rem;
+  display: flex;
+  align-items: center;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ .group-6037-kW8 .switch-52c {
+  margin-right: 0.9rem;
+  width: 3rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ .group-6037-kW8 .switch-52c .track-coE {
+  width: 3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #77007a;
+  border-radius: 10rem;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ .group-6037-kW8 .switch-52c .handle-mAL {
+  width: 1.2rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0.3rem;
+  background-color: #ffffff;
+  border-radius: 2.3rem;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ .group-6037-kW8 .zapamta-kartu-G76 {
+  margin-bottom: 0.0462rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ .auto-group-1mhn-nbE {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ .auto-group-1mhn-nbE .switch-8uz {
+  margin-right: 0.9rem;
+  width: 3rem;
+  height: 1.8462rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .group-6036-dwJ .auto-group-1mhn-nbE .zosla-potvrdenie-o-platbe-na-email-ff2 {
+  margin-bottom: 0.0462rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .line-6-Pb2 {
+  margin: 0rem 0.8rem 2.5rem 0rem;
+  width: 26.2rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .auto-group-fb8g-iNQ {
+  margin: 0rem 0.2rem 2.1rem 0rem;
+  width: calc(100% - 0.2rem);
+  height: 3.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .auto-group-fb8g-iNQ .group-6027-39n {
+  margin-right: 0.1rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .auto-group-fb8g-iNQ .group-6027-39n .suma-na-zaplatenie-bBJ {
+  margin: 0rem 11.3rem 0.2rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .auto-group-fb8g-iNQ .group-6027-39n .item-0-7QY {
+  text-align: right;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #77007a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .auto-group-fb8g-iNQ .item--Fme {
+  text-align: right;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #77007a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .frame-9-B9W {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  width: 30.4rem;
+  height: 4.4rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.150000006), 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3000000119);
+  background-color: #77007a;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-azjj-TCx .icon-back-square-AXE {
+  margin-left: 0.7rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-w652-ti8 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+  padding: 0.976rem 4.8rem 0.65rem 4.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.8000000119);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(237, 237, 237, 0.8000000119);
+  flex-shrink: 0;
+  justify-content: center;
+}
+.frame-platba-dUp .auto-group-w652-ti8 .icon-contact-card-ce8 {
+  margin: 0.37rem 8.634rem 0rem 0rem;
+  width: 3.5665rem;
+  height: 2.7467rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-w652-ti8 .icon-receipt-Y1z {
+  margin: 0.424rem 8.616rem 0rem 0rem;
+  width: 2.7535rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-platba-dUp .auto-group-w652-ti8 .icon-person-outline-Tek {
+  margin-bottom: 0.3062rem;
+  width: 3.2308rem;
+  height: 3.3175rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+@media only screen and (max-width: 1920px) {
+  body {
+    width: 100%;
+    font-size: 1.4rem;
+  }
+
+  .nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 {
+    padding: 1.5rem 1rem;
+  }
+
+}

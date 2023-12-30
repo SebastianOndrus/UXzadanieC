@@ -1,0 +1,946 @@
+
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 36rem;
+  font-size: 1.6rem;
+  margin: 0 auto;
+  height: 100%;
+  background-color: #f5f5f5;
+}
+
+.nakup-listka-zavnen-Cda {
+  width: 100%;
+  height: 100;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+}
+
+/* Header */
+.nakup-listka-zavnen-Cda .auto-group-gwep-KTJ {
+  width: 100%;
+  height: 5.7rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #77007a;
+  flex-shrink: 0;
+}
+
+/* Main Content */
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 {
+  margin-top: 1rem;
+  box-sizing: border-box;
+  padding: 2.5rem 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+/* Kredit Section */
+/* .nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .kredit-9BS {
+  margin: auto;
+  margin-bottom: 2.1rem;
+  width: 100%;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+} */
+
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .kredit-9BS {
+  margin: auto; /* This will center the div horizontally */
+  margin-bottom: 2.1rem;
+  width: 320px; /* Set the desired width */
+  height: 6.3rem;
+  position: relative;
+}
+
+
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .kredit-9BS .rectangle-3-5Kz {
+  margin: auto;
+  width: 100%;
+  height: 4.5863rem;
+  position: absolute;
+  left: 0;
+  top: 1.7137rem;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .kredit-9BS .auto-group-npqa-yAU {
+  width: 100%;
+  height: 3.1rem;
+  position: relative;
+  left: 1.2rem;
+  top: 2.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .kredit-9BS .auto-group-npqa-yAU .icon-funds-gqa {
+
+  width: 1.8462rem;
+  height: 1.6986rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .kredit-9BS .auto-group-npqa-yAU .item-430-zrG {
+
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 10px;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .kredit-9BS .auto-group-npqa-yAU .icon-add-circle-plus-tgk {
+  width: 100%;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-left: 48px;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .kredit-9BS .zostvajci-kredit-Rgg {
+  width: 13.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+/* Active Tickets Section */
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .aktvne-listky-urk {
+  margin: auto;
+  margin-bottom: 6.4rem;
+  box-sizing: border-box;
+  padding: 0.9rem 0rem 1.95rem 0rem;
+  width: 320px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.05rem #000000;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .aktvne-listky-urk .auto-group-9kpn-RaC {
+  margin: 0rem 1.7rem 0.5rem 1rem;
+  width: calc(100% - 2.7rem);
+  height: 3.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .aktvne-listky-urk .auto-group-9kpn-RaC .iaden-zakpen-lstok-9FJ {
+  width: 16.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 0.7rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .aktvne-listky-urk .auto-group-9kpn-RaC .icon-ticket-pass-Dkx {
+  width: 2rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .aktvne-listky-urk .auto-group-9kpn-RaC .icon-scan-qr-code-McG {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 27.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .aktvne-listky-urk .auto-group-9kpn-RaC .progressbar-listok-tMJ {
+  width: 28rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 2.7rem;
+  background-color: #e9e9e9;
+  border-radius: 10rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .aktvne-listky-urk .auto-group-9kpn-RaC .progressbar-listok-tMJ .rectangle-DeU {
+  width: 100%;
+  height: 0.4rem;
+  background-color: #fb2d00;
+  border-radius: 10rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .aktvne-listky-urk .line-1-jcp {
+  width: 100%;
+  height: 0.05rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW {
+  box-sizing: border-box;
+  padding: 2.1rem 3.2rem 3.7rem 3.2rem;
+  width: 325px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.05rem #000000;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .vyber-typu-listka-NQt {
+  margin: 0rem 5.8rem 4.3rem 6.2rem;
+  width: calc(100% - 12rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .vyber-typu-listka-NQt .zkladn-VVW {
+  margin: 0.1rem 0.6rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .vyber-typu-listka-NQt .line-2-bYY {
+  margin: 0rem 1rem 0.2rem 0rem;
+  width: 0.1rem;
+  height: 1.7rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .vyber-typu-listka-NQt .auto-group-7yhj-vKv {
+  margin-top: 0.1rem;
+  width: 6rem;
+  height: 1.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .vyber-typu-listka-NQt .auto-group-7yhj-vKv .zavnen-rjN {
+  width: 6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .vyber-typu-listka-NQt .auto-group-7yhj-vKv .rectangle-5-Nhi {
+  width: 5rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 1.5rem;
+  background-color: #a2f07e;
+  border-radius: 1.2rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ {
+  width: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt {
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  column-gap: 2.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-Ada {
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-Ada .rectangle-8-RZW {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(73, 228, 0, 0.5);
+  border-radius: 0 0 0.8rem 0.8rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-Ada .min-Ket {
+  width: 2.6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-Ada .min-Ket .min-Ket-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-Ada .min-Ket .min-Ket-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-Ada .item-070--9GY {
+  width: 4.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-N9J {
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-N9J .rectangle-8-uuv {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(73, 228, 0, 0.5);
+  border-radius: 0 0 0.8rem 0.8rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-N9J .min-d5E {
+  width: 2.6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-N9J .min-d5E .min-d5E-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-N9J .min-d5E .min-d5E-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-N9J .item-070--Y5i {
+  width: 4.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.45rem;
+  top: 6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-CAG {
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-CAG .rectangle-8-wtY {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(73, 228, 0, 0.5);
+  border-radius: 0 0 0.8rem 0.8rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-CAG .min-fJk {
+  width: 2.5rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-CAG .min-fJk .min-fJk-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-CAG .min-fJk .min-fJk-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-1-Rvt .komponet-listku-CAG .item-070--bLp {
+  width: 3.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.55rem;
+  top: 6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ {
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  column-gap: 2.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-aTe {
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-aTe .rectangle-8-Xdn {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(73, 228, 0, 0.5);
+  border-radius: 0 0 0.8rem 0.8rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-aTe .min-dgp {
+  width: 1.7rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-aTe .min-dgp .min-dgp-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-aTe .min-dgp .min-dgp-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-aTe .item-070--mgY {
+  width: 4.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.45rem;
+  top: 6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-Rm6 {
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-Rm6 .rectangle-8-ync {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(73, 228, 0, 0.5);
+  border-radius: 0 0 0.8rem 0.8rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-Rm6 .min-Vkx {
+  width: 2.6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-Rm6 .min-Vkx .min-Vkx-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-Rm6 .min-Vkx .min-Vkx-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-Rm6 .item-070--3fz {
+  width: 4.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.25rem;
+  top: 6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-twW {
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-twW .rectangle-8-FXA {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 5.6rem;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: rgba(73, 228, 0, 0.5);
+  border-radius: 0 0 0.8rem 0.8rem;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-twW .min-mVW {
+  width: 3.8rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-twW .min-mVW .min-mVW-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-twW .min-mVW .min-mVW-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-2-doJ .komponet-listku-twW .item-070--8Da {
+  width: 5.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 {
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  column-gap: 2.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-hvt {
+  box-sizing: border-box;
+  padding-top: 1.4rem;
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-hvt .min-3Ux {
+  margin-bottom: 0.6rem;
+  max-width: 3.6rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-hvt .min-3Ux .min-3Ux-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-hvt .min-3Ux .min-3Ux-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-hvt .auto-group-kmta-NvY {
+  width: 100%;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 0 0 0.8rem 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-zS8 {
+  box-sizing: border-box;
+  padding-top: 1.4rem;
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-zS8 .min-Xwr {
+  margin-bottom: 0.6rem;
+  max-width: 6.5rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-zS8 .min-Xwr .min-Xwr-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-zS8 .min-Xwr .min-Xwr-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-zS8 .auto-group-16vr-ogQ {
+  width: 100%;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 0 0 0.8rem 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-ctk {
+  box-sizing: border-box;
+  padding-top: 1.4rem;
+  width: 7rem;
+  height: 100%;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-ctk .min-mFr {
+  margin: 0rem 0rem 0.6rem 0.1rem;
+  max-width: 5.3rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-ctk .min-mFr .min-mFr-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-ctk .min-mFr .min-mFr-sub-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 .auto-group-ueww-3dW .frame-3-gyJ .frame-4-Ag4 .komponet-listku-ctk .auto-group-adau-tzg {
+  width: 100%;
+  height: 2.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 0 0 0.8rem 0.8rem;
+  flex-shrink: 0;
+}
+/* Bottom Section */
+.nakup-listka-zavnen-Cda .group-1-rKE {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+  padding: 0.976rem 4.8rem 0.65rem 4.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.8000000119);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(237, 237, 237, 0.8000000119);
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.nakup-listka-zavnen-Cda .group-1-rKE .icon-contact-card-B6c {
+  margin: 0rem 8.634rem 0.38rem 0rem;
+  width: 3.5665rem;
+  height: 2.7467rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.nakup-listka-zavnen-Cda .group-1-rKE .auto-group-f8pv-4w6 {
+  margin: 0.424rem 8.616rem 0rem 0rem;
+  width: 2.7535rem;
+  height: 3.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.nakup-listka-zavnen-Cda .group-1-rKE .icon-person-outline-mKi {
+  margin-bottom: 1.0562rem;
+  width: 3.2308rem;
+  height: 3.3175rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+
+/* Responsive Styles */
+@media only screen and (max-width: 1920px) {
+  body {
+    width: 100%;
+    font-size: 1.4rem;
+  }
+
+  .nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 {
+    padding: 1.5rem 1rem;
+  }
+
+  /* Adjust other styles for smaller screens */
+}

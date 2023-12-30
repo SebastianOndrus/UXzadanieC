@@ -1,0 +1,418 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.frame-profil-kontakt-xZJ {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+}
+.frame-profil-kontakt-xZJ .auto-group-fntc-hWt {
+  width: 100%;
+  height: 5.7rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #77007a;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n {
+  box-sizing: border-box;
+  padding: 4.3rem 5.1rem 17.6rem 4.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .auto-group-hhfa-veY {
+  margin-bottom: 2.3rem;
+  box-sizing: border-box;
+  padding: 1.3rem 0.3rem 0.3rem 0.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .auto-group-hhfa-veY .icon-person-outline-eqS {
+  margin: 0rem 0.469rem 1.082rem 0rem;
+  width: 3.2308rem;
+  height: 3.3175rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .auto-group-hhfa-veY .auto-group-yd3s-NFe {
+  margin-top: 0.6rem;
+  width: 21.5rem;
+  height: 3.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .auto-group-hhfa-veY .auto-group-yd3s-NFe .ondrus-6xL {
+  width: 7.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .auto-group-hhfa-veY .auto-group-yd3s-NFe .sebastian-Qi8 {
+  width: 10.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .auto-group-hhfa-veY .auto-group-yd3s-NFe .sebastianondrusgmailcom-L5z {
+  width: 18.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .edit-button-mh6 {
+  margin: 0rem 5rem 1.4rem 5rem;
+  box-sizing: border-box;
+  padding: 0.5rem 4.7rem 0.4rem 0.6rem;
+  width: calc(100% - 10rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .edit-button-mh6 .icon-user-edit-5Bz {
+  margin: 0rem 0.8rem 0.1rem 0rem;
+  width: 2.4998rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .edit-button-mh6 .upravi-profil-Bkp {
+  margin-top: 0.4rem;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .log-out-button-43v {
+  margin: 0rem 5rem 2.3rem 5rem;
+  box-sizing: border-box;
+  padding: 0.7rem 5.6rem 0.4rem 0.8rem;
+  width: calc(100% - 10rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .log-out-button-43v .icon-sign-out-kBe {
+  margin: 0rem 1.061rem 0.1rem 0rem;
+  width: 2.0393rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .log-out-button-43v .odhlsi-sa-Nyi {
+  margin-top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ {
+  width: 100%;
+  row-gap: 0.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .kontakt-nGk {
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .kontakt-nGk .kontakt-7Zv {
+  margin-right: 17.6rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 2.5454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .kontakt-nGk .icon-chevron-right-FRE {
+  margin-bottom: 0.0562rem;
+  width: 2rem;
+  height: 1.1438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 0.9rem;
+  width: 100%;
+  height: 14rem;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(189, 247, 255, 0.3000000119);
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv {
+  max-width: 23.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-0 {
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-2 {
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-3 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-4 {
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-5 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-6 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-7 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-8 {
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .group-2-8E8 .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv .adresa-spolenosti-obchodn-23-05301-levoa-telefnne-slo-421-913-326-719-e-mail-podpory-podporamoveeasesk-radn-hodiny-pon-pia-9-00-17-00-rfv-sub-9 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-tRa {
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-tRa .histria-objednvok-1WC {
+  margin-right: 10.8rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 2.5454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-tRa .icon-chevron-right-jwz {
+  margin-bottom: 0.0562rem;
+  width: 2rem;
+  height: 1.1438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-RZv {
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-RZv .nastavenia-mNt {
+  margin-right: 15.6rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 2.5454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-RZv .icon-chevron-right-6g4 {
+  margin-bottom: 0.0562rem;
+  width: 2rem;
+  height: 1.1438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-Nda {
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-Nda .najastejie-otzky-QaG {
+  margin-right: 11.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 2.5454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-awts-11n .frame-5-qsJ .historia-Nda .icon-chevron-right-YAg {
+  margin-bottom: 0.0562rem;
+  width: 2rem;
+  height: 1.1438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-dxec-2Lk {
+  box-sizing: border-box;
+  padding: 0.976rem 4.8rem 0.85rem 4.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.8000000119);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(237, 237, 237, 0.8000000119);
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-dxec-2Lk .icon-contact-card-9RN {
+  margin: 0rem 8.634rem 0.18rem 0rem;
+  width: 3.5665rem;
+  height: 2.7467rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-dxec-2Lk .icon-receipt-TS4 {
+  margin: 0rem 8.616rem 0.126rem 0rem;
+  width: 2.7535rem;
+  height: 3.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-kontakt-xZJ .auto-group-dxec-2Lk .auto-group-trb6-ama {
+  width: 3.2308rem;
+  height: 4.1737rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

@@ -1,0 +1,80 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 7rem;
+}.komponet-listku-ft8 {
+  background-color: #fafafa;
+  border-radius: 0.8rem;
+  width: 100%;
+  height: 8rem;
+  position: relative;
+  border: solid 0.05rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+  .rectangle-8-c2g {
+    position: absolute;
+    top: 5.6rem;
+    box-sizing: border-box;
+    border: solid 0.05rem #000000;
+    background-color: rgba(251, 45, 0, 0.5);
+    border-radius: 0 0 0.8rem 0.8rem;
+    width: 7rem;
+    height: 2.4rem;
+    left: 0;
+  }
+  .min-h48 {
+    height: 4.5rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    width: 2.6rem;
+    position: absolute;
+    left: 2.2rem;
+    top: 1.4rem;
+    text-align: center;
+    line-height: 1.2102272511;
+
+    .min-h48-sub-0 {
+      font-weight: 700;
+      line-height: 1.5;
+      color: #000000;
+      font-family: Poppins, 'Source Sans Pro';
+      font-size: 2rem;
+    }
+    .min-h48-sub-1 {
+      color: rgba(0, 0, 0, 0.6999999881);
+      font-family: Poppins, 'Source Sans Pro';
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.5;
+    }
+  }
+  .item-070--8oe {
+    width: 4.1rem;
+    left: 1.45rem;
+    top: 6rem;
+    text-align: center;
+    color: #000000;
+    font-family: Poppins, 'Source Sans Pro';
+    white-space: nowrap;
+    height: 1.8rem;
+    position: absolute;
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+}

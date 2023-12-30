@@ -1,0 +1,300 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 20rem;
+}.editor-profiilu-dJt {
+  padding: 1.5rem 1.3rem 0.2rem 2rem;
+  width: 100%;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  box-sizing: border-box;
+  align-items: center;
+  display: flex;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+  .icon-x-close-delete-kPW {
+    margin-left: 15.2rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .frame-4-tEp {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin: 0rem 0.6rem 0.2rem 0rem;
+    width: 16.1rem;
+
+    .auto-group-3zkc-pPN {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding-bottom: 0.4rem;
+      width: 100%;
+
+      .meno-N9z {
+        flex-shrink: 0;
+        margin-bottom: 0.4rem;
+        width: 16rem;
+        height: 4.3rem;
+        position: relative;
+        border-radius: 0.4rem;
+
+        .rectangle-12-ufi {
+          border: solid 0.05rem #000000;
+          box-sizing: border-box;
+          background-color: #f5f5f5;
+          width: 16rem;
+          position: absolute;
+          top: 1.9rem;
+          border-radius: 0.4rem;
+          height: 2rem;
+          left: 0;
+        }
+        .meno-Re4 {
+          white-space: nowrap;
+          width: 3.1rem;
+          height: 2.8rem;
+          position: absolute;
+          left: 0.6rem;
+          line-height: 2.5454545455;
+          top: 0;
+          font-size: 1.1rem;
+          font-weight: 600;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+        .sebastian-Xwz {
+          height: 2.8rem;
+          left: 0.6rem;
+          top: 1.5rem;
+          font-weight: 600;
+          color: rgba(0, 0, 0, 0.6000000238);
+          white-space: nowrap;
+          width: 5.7rem;
+          position: absolute;
+          font-size: 1.1rem;
+          line-height: 2.5454545455;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+      }
+      .priezvisko-RGg {
+        width: 16rem;
+        height: 4.3rem;
+        position: relative;
+        border-radius: 0.4rem;
+        flex-shrink: 0;
+
+        .rectangle-12-Ztg {
+          box-sizing: border-box;
+          border-radius: 0.4rem;
+          width: 16rem;
+          left: 0;
+          top: 1.9rem;
+          border: solid 0.05rem #000000;
+          background-color: #f5f5f5;
+          height: 2rem;
+          position: absolute;
+        }
+        .priezvisko-5c8 {
+          font-size: 1.1rem;
+          font-weight: 600;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 5.6rem;
+          height: 2.8rem;
+          top: 0;
+          line-height: 2.5454545455;
+          position: absolute;
+          left: 0.6rem;
+        }
+        .ondrus-Bv4 {
+          font-weight: 600;
+          color: rgba(0, 0, 0, 0.6000000238);
+          white-space: nowrap;
+          position: absolute;
+          height: 2.8rem;
+          left: 0.6rem;
+          top: 1.5rem;
+          font-size: 1.1rem;
+          line-height: 2.5454545455;
+          font-family: Poppins, 'Source Sans Pro';
+          width: 4.2rem;
+        }
+      }
+    }
+    .meno-61S {
+      width: 100%;
+      height: 4.3rem;
+      position: relative;
+      border-radius: 0.4rem;
+      flex-shrink: 0;
+
+      .rectangle-12-SLC {
+        height: 2rem;
+        border: solid 0.05rem #000000;
+        box-sizing: border-box;
+        background-color: #f5f5f5;
+        border-radius: 0.4rem;
+        width: 16rem;
+        position: absolute;
+        left: 0;
+        top: 1.9rem;
+      }
+      .email-Ye8 {
+        left: 0.6rem;
+        top: 0;
+        font-weight: 600;
+        font-family: Poppins, 'Source Sans Pro';
+        width: 3.1rem;
+        height: 2.8rem;
+        position: absolute;
+        font-size: 1.1rem;
+        line-height: 2.5454545455;
+        color: #000000;
+        white-space: nowrap;
+      }
+      .sebastianondrusgmailcom-58G {
+        height: 2.8rem;
+        left: 0.6rem;
+        top: 1.5rem;
+        font-weight: 600;
+        color: rgba(0, 0, 0, 0.6000000238);
+        font-family: Poppins, 'Source Sans Pro';
+        width: 15.5rem;
+        position: absolute;
+        font-size: 1rem;
+        line-height: 2.8;
+        white-space: nowrap;
+      }
+    }
+    .auto-group-m62y-N7N {
+      box-sizing: border-box;
+      padding-top: 0.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .meno-7ak {
+        margin-bottom: 0.4rem;
+        width: 16rem;
+        height: 4.3rem;
+        position: relative;
+        border-radius: 0.4rem;
+        flex-shrink: 0;
+
+        .rectangle-12-3UQ {
+          top: 1.9rem;
+          background-color: #f5f5f5;
+          box-sizing: border-box;
+          border-radius: 0.4rem;
+          width: 16rem;
+          height: 2rem;
+          position: absolute;
+          left: 0;
+          border: solid 0.05rem #000000;
+        }
+        .telefnne-slo-AZ2 {
+          top: 0;
+          font-weight: 600;
+          line-height: 2.5454545455;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 8.4rem;
+          position: absolute;
+          left: 0.6rem;
+          font-size: 1.1rem;
+          height: 2.8rem;
+        }
+        .item-0914543865-sTS {
+          width: 6.8rem;
+          left: 0.6rem;
+          top: 1.5rem;
+          font-size: 1.1rem;
+          line-height: 2.5454545455;
+          color: rgba(0, 0, 0, 0.6000000238);
+          white-space: nowrap;
+          height: 2.8rem;
+          position: absolute;
+          font-weight: 600;
+          font-family: Poppins, 'Source Sans Pro';
+        }
+      }
+      .meno-AhS {
+        width: 16rem;
+        height: 4.3rem;
+        position: relative;
+        border-radius: 0.4rem;
+        flex-shrink: 0;
+
+        .rectangle-12-7sa {
+          position: absolute;
+          border: solid 0.05rem #000000;
+          width: 16rem;
+          left: 0;
+          top: 1.9rem;
+          box-sizing: border-box;
+          background-color: #f5f5f5;
+          border-radius: 0.4rem;
+          height: 2rem;
+        }
+        .dtum-narodenia-qoa {
+          top: 0;
+          font-size: 1.1rem;
+          font-weight: 600;
+          color: #000000;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 10rem;
+          height: 2.8rem;
+          position: absolute;
+          left: 0.6rem;
+          line-height: 2.5454545455;
+        }
+        .item-411997-Mmv {
+          height: 2.8rem;
+          left: 0.6rem;
+          font-size: 1.1rem;
+          line-height: 2.5454545455;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 4.1rem;
+          position: absolute;
+          top: 1.5rem;
+          font-weight: 600;
+          color: rgba(0, 0, 0, 0.6000000238);
+        }
+      }
+    }
+  }
+  .icon-checkbox-checked-rTn {
+    margin-right: 0.6rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    position: relative;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+}

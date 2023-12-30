@@ -1,0 +1,325 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+  font-size: 1.6rem;
+  margin: 0 auto;
+  height: 100%;
+  background-color: #f5f5f5;
+}.frame-dopravna-karta-BJ4 {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-wswa-vFe {
+  width: 100%;
+  height: 5.7rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #77007a;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ {
+  box-sizing: border-box;
+  padding: 4.3rem 5rem 40.2rem 5rem;
+  width: 36rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe {
+  margin-bottom: 2.9rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.8rem 1rem 1.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-tjuz-Tun {
+  margin: 0rem 2.4rem 4.153rem 0rem;
+  width: calc(100% - 2.4rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-tjuz-Tun .icon-contact-card-bFJ {
+  margin-right: 2.2335rem;
+  width: 3.5665rem;
+  height: 2.7467rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-tjuz-Tun .meno-a-priezbvisko-uWt {
+  margin-top: 0.5533rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-tjuz-Tun .meno-a-priezbvisko-uWt .sebastian-EJG {
+  margin-right: 1.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-tjuz-Tun .meno-a-priezbvisko-uWt .ondrus-7sr {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN {
+  margin: 0rem 4.6rem 0rem 1.3rem;
+  width: calc(100% - 5.9rem);
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN .auto-group-299v-dji {
+  margin-right: 1rem;
+  width: 5.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN .auto-group-299v-dji .typ-karty-AUk {
+  width: 4.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN .auto-group-299v-dji .platn-do-Fm6 {
+  width: 5.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN .auto-group-299v-dji .slo-karty-xQc {
+  width: 5.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN .auto-group-y65a-4yS {
+  width: 10rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN .auto-group-y65a-4yS .preukaz-tudenta-cEG {
+  width: 9.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN .auto-group-y65a-4yS .item-2462024-gE8 {
+  width: 5.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .karta-wRe .auto-group-52lc-7mN .auto-group-y65a-4yS .item-43-21433-6432-253-nnx {
+  width: 10rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .edit-button-pje {
+  margin: 0rem 5rem 0.9rem 5rem;
+  box-sizing: border-box;
+  padding: 0.7rem 5.2rem 0.4rem 0.9rem;
+  width: calc(100% - 10rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .edit-button-pje .icon-edit-pencil-7Tr {
+  margin: 0rem 0.8rem 0.3rem 0rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .edit-button-pje .upravi-kartu-2qi {
+  margin-top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .delete-button-76U {
+  margin: 0 5rem;
+  box-sizing: border-box;
+  padding: 0.7rem 4rem 0.4rem 0.9rem;
+  width: calc(100% - 10rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .delete-button-76U .icon-delete-q2U {
+  margin: 0rem 0.8rem 0.3rem 0rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-v2ha-RTJ .delete-button-76U .odstrni-kartu-kQL {
+  margin-top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-w23n-1bA {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+  padding: 0.976rem 4.8rem 0.65rem 4.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.8000000119);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(237, 237, 237, 0.8000000119);
+  flex-shrink: 0;
+  justify-content: center;
+}
+.frame-dopravna-karta-BJ4 .auto-group-w23n-1bA .auto-group-jkeg-jn4 {
+  margin: 0.624rem 8.634rem 0rem 0rem;
+  width: 3.5665rem;
+  height: 3.55rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-w23n-1bA .icon-receipt-SgU {
+  margin: 0rem 8.616rem 0.126rem 0rem;
+  width: 2.7535rem;
+  height: 3.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-dopravna-karta-BJ4 .auto-group-w23n-1bA .icon-person-outline-XC8 {
+  margin-bottom: 0.8562rem;
+  width: 3.2308rem;
+  height: 3.3175rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+/* Responsive Styles */
+@media only screen and (max-width: 1920px) {
+  body {
+    width: 100%;
+    font-size: 1.4rem;
+  }
+
+  .nakup-listka-zavnen-Cda .auto-group-7lqc-1L8 {
+    padding: 1.5rem 1rem;
+  }
+
+  /* Adjust other styles for smaller screens */
+}

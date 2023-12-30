@@ -1,0 +1,418 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.frame-profil-historia-objednavok-Cuz {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-kinx-8Yk {
+  width: 100%;
+  height: 5.7rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #77007a;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr {
+  box-sizing: border-box;
+  padding: 4.3rem 5.1rem 20.3rem 4.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .auto-group-qemj-9Tr {
+  margin-bottom: 2.3rem;
+  box-sizing: border-box;
+  padding: 1.3rem 0.4rem 0.3rem 0.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .auto-group-qemj-9Tr .icon-person-outline-fwz {
+  margin: 0rem 0.469rem 1.082rem 0rem;
+  width: 3.2308rem;
+  height: 3.3175rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .auto-group-qemj-9Tr .auto-group-7a9a-yBz {
+  margin-top: 0.6rem;
+  width: 21.4rem;
+  height: 3.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .auto-group-qemj-9Tr .auto-group-7a9a-yBz .ondrus-htg {
+  width: 7.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .auto-group-qemj-9Tr .auto-group-7a9a-yBz .sebastian-cVr {
+  width: 10.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .auto-group-qemj-9Tr .auto-group-7a9a-yBz .sebastianondrusgmailcom-X72 {
+  width: 18.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .edit-button-MLx {
+  margin: 0rem 5rem 1.4rem 5rem;
+  box-sizing: border-box;
+  padding: 0.5rem 4.7rem 0.4rem 0.6rem;
+  width: calc(100% - 10rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .edit-button-MLx .icon-user-edit-rYc {
+  margin: 0rem 0.8rem 0.1rem 0rem;
+  width: 2.4998rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .edit-button-MLx .upravi-profil-aDi {
+  margin-top: 0.4rem;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .log-out-button-37J {
+  margin: 0rem 5rem 2.3rem 5rem;
+  box-sizing: border-box;
+  padding: 0.7rem 5.6rem 0.4rem 0.8rem;
+  width: calc(100% - 10rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .log-out-button-37J .icon-sign-out-LMJ {
+  margin: 0rem 1.061rem 0.1rem 0rem;
+  width: 2.0393rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .log-out-button-37J .odhlsi-sa-Sv8 {
+  margin-top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW {
+  width: 100%;
+  row-gap: 0.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .kontakt-4Ri {
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .kontakt-4Ri .kontakt-bRe {
+  margin-right: 17.6rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 2.5454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .kontakt-4Ri .icon-chevron-right-Xq6 {
+  margin-bottom: 0.0562rem;
+  width: 2rem;
+  height: 1.1438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-Qtt {
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-Qtt .histria-objednvok-wtp {
+  margin-right: 10.8rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 2.5454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-Qtt .icon-chevron-right-Gw6 {
+  margin-bottom: 0.0562rem;
+  width: 2rem;
+  height: 1.1438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A {
+  box-sizing: border-box;
+  padding: 0.445rem 0.6rem 0.855rem 0.6rem;
+  width: 100%;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(189, 247, 255, 0.3000000119);
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k {
+  max-width: 16.8rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-0 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-1 {
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-2 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-3 {
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-4 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-5 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-6 {
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-7 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-8 {
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-9 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .group-2-m7A .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k .zkladn-24-hod-30102023-13-53-zavnen-30-min-21102023-9-21-zavnen-7-dni-12102023-6-36-bicykel-10102023-16-28-zkladn-60-min-10102023-16-27-W4k-sub-10 {
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-DHv {
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-DHv .nastavenia-Yqz {
+  margin-right: 15.6rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 2.5454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-DHv .icon-chevron-right-gBW {
+  margin-bottom: 0.0562rem;
+  width: 2rem;
+  height: 1.1438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-khA {
+  box-sizing: border-box;
+  padding: 0.1rem 0.7rem 0.1rem 1.2rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.05rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bdf7ff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-khA .najastejie-otzky-6W8 {
+  margin-right: 11.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 2.5454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-vvkr-RXr .frame-5-vKW .historia-khA .icon-chevron-right-RYQ {
+  margin-bottom: 0.0562rem;
+  width: 2rem;
+  height: 1.1438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-cg7w-hkp {
+  box-sizing: border-box;
+  padding: 0.976rem 4.8rem 0.85rem 4.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.8000000119);
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(237, 237, 237, 0.8000000119);
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-cg7w-hkp .icon-contact-card-EEx {
+  margin: 0rem 8.634rem 0.18rem 0rem;
+  width: 3.5665rem;
+  height: 2.7467rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-cg7w-hkp .icon-receipt-9Mv {
+  margin: 0rem 8.616rem 0.126rem 0rem;
+  width: 2.7535rem;
+  height: 3.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-profil-historia-objednavok-Cuz .auto-group-cg7w-hkp .auto-group-yot2-rn8 {
+  width: 3.2308rem;
+  height: 4.1737rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
