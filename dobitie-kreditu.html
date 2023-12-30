@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Dobitie kreditu</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A600%2C700"/>
+  <link rel="stylesheet" href="./styles/dobitie-kreditu.css"/>
+</head>
+<body>
+<div class="dobitie-kreditu-for">
+  <div class="auto-group-uxda-bxQ">Dobitie kreditu</div>
+  <div class="auto-group-y1sl-Vnt">
+    <div class="vyber-sumy-2Xv">
+      <p class="vyberte-sumu-YWG">Vyberte sumu</p>
+      <div class="frame-7-T7S">
+        <div class="auto-group-ugng-nfW">
+          <div class="group-8-wHW">5€</div>
+          <div class="group-7-n3E">50€</div>
+        </div>
+        <div class="auto-group-pc12-d3r">
+          <div class="group-3-mvk">10€</div>
+          <div class="group-6-q9v">100€</div>
+        </div>
+        <div class="auto-group-xkbs-tP6">
+          <div class="group-5-d5n">20€</div>
+          <div class="group-4-gJx">200€</div>
+        </div>
+      </div>
+      <div class="posuvnik-sumy-LeQ">
+        <div class="auto-group-fhrn-UEp">
+          <div class="rectangle-16-cbv">
+          </div>
+          <div class="item-5-iex">10</div>
+          <img class="minus-cVS" src="./assets/minus.png"/>
+        </div>
+        <img class="plus-Z9n" src="./assets/plus.png"/>
+      </div>
+    </div>
+    <div id="platbaLink" class="group-9-AQU">Prejsť k platbe</div>
+    <img class="icon-back-square-XPS" src="./assets/icon-back-square.png"/>
+  </div>
+  <div class="auto-group-ru8q-eDA">
+    <img class="icon-contact-card-ABW" src="./assets/icon-contact-card-rrx.png"/>
+    <img class="icon-receipt-UT6" src="./assets/icon-receipt-X7J.png"/>
+    <img class="icon-person-outline-aW8" src="./assets/icon-person-outline-vRS.png"/>
+  </div>
+</div>
+</body>
+
+
+<script>
+  // Function to handle navigation to zakladne.html
+  function navigateToPlatba() {
+    // Redirect to the zakladne.html file
+    window.location.href = 'frame-platba.html';
+  }
+
+  // Attach the function to the click event of the "Základné" element
+  document.getElementById('platbaLink').addEventListener('click', navigateToPlatba);
+
+</script>

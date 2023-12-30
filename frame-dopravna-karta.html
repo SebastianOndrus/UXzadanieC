@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Frame dopravna karta</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="./styles/frame-dopravna-karta.css"/>
+</head>
+<body>
+<div class="frame-dopravna-karta-BJ4">
+  <div class="auto-group-wswa-vFe">Dopravná Karta</div>
+  <div class="auto-group-v2ha-RTJ">
+    <div class="karta-wRe">
+      <div class="auto-group-tjuz-Tun">
+        <img class="icon-contact-card-bFJ" src="./assets/icon-contact-card-qfS.png"/>
+        <div class="meno-a-priezbvisko-uWt">
+          <p class="sebastian-EJG">Sebastian</p>
+          <p class="ondrus-7sr">Ondrus</p>
+        </div>
+      </div>
+      <div class="auto-group-52lc-7mN">
+        <div class="auto-group-299v-dji">
+          <p class="typ-karty-AUk">typ karty</p>
+          <p class="platn-do-Fm6">platná do</p>
+          <p class="slo-karty-xQc">číslo karty</p>
+        </div>
+        <div class="auto-group-y65a-4yS">
+          <p class="preukaz-tudenta-cEG">Preukaz študenta</p>
+          <p class="item-2462024-gE8">24.6.2024</p>
+          <p class="item-43-21433-6432-253-nnx">43 21433 6432 253</p>
+        </div>
+      </div>
+    </div>
+    <div class="edit-button-pje">
+      <img class="icon-edit-pencil-7Tr" src="./assets/icon-edit-pencil.png"/>
+      <p class="upravi-kartu-2qi">Upraviť kartu</p>
+    </div>
+    <div class="delete-button-76U">
+      <img class="icon-delete-q2U" src="./assets/icon-delete.png"/>
+      <p class="odstrni-kartu-kQL">Odstrániť kartu</p>
+    </div>
+  </div>
+  <div class="auto-group-w23n-1bA">
+    <img id="cardLink" class="auto-group-jkeg-jn4" src="./assets/auto-group-jkeg.png"/>
+    <img id="listkyLink" class="icon-receipt-SgU" src="./assets/icon-receipt-qVE.png"/>
+    <img id="profilLink" class="icon-person-outline-XC8" src="./assets/icon-person-outline.png"/>
+  </div>
+</div>
+</body>
+
+<script>
+  // Function to handle navigation to zakladne.html
+  function navigateToListky() {
+    // Redirect to the zakladne.html file
+    window.location.href = 'nakup-listka-zklad.html';
+  }
+  function navigateToProfil() {
+    // Redirect to the profil.html file
+    window.location.href = 'frame-profil.html';
+  }
+
+  // Attach the function to the click event of the "Základné" element
+  document.getElementById('listkyLink').addEventListener('click', navigateToListky);
+  document.getElementById('profilLink').addEventListener('click', navigateToProfil);
+</script>

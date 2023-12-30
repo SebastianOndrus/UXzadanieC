@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Frame Profil</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A600%2C700"/>
+  <link rel="stylesheet" href="./styles/frame-profil.css"/>
+</head>
+<body>
+<div class="frame-profil-K5E">
+  <div class="auto-group-8zfn-42p">Profil</div>
+  <div class="auto-group-wmta-M1v">
+    <div class="auto-group-gxqq-Geg">
+      <img class="icon-person-outline-nsv" src="./assets/icon-person-outline-dUg.png"/>
+      <div class="auto-group-ysng-tg4">
+        <p class="ondrus-2XN">Ondrus</p>
+        <p class="sebastian-Xyv">Sebastian</p>
+        <p class="sebastianondrusgmailcom-4DA">sebastian.ondrus@gmail.com</p>
+      </div>
+    </div>
+    <div class="edit-button-Hrc">
+      <img class="icon-user-edit-zW8" src="./assets/icon-user-edit-HYY.png"/>
+      <p class="upravi-profil-uNC">Upraviť profil</p>
+    </div>
+    <div id="logoutLink" class="log-out-button-Mjz">
+      <img class="icon-sign-out-TY8" src="./assets/icon-sign-out-NRi.png"/>
+      <p class="odhlsi-sa-PAt">Odhlásiť sa</p>
+    </div>
+    <div class="frame-6-rqA">
+      <div class="kontakt-bXr">
+        <p class="kontakt-vKE">Kontakt</p>
+        <img class="icon-chevron-right-fGp" src="./assets/icon-chevron-right-87e.png"/>
+      </div>
+      <div class="historia-LNx">
+        <p class="histria-objednvok-UEG">História objednávok</p>
+        <img class="icon-chevron-right-oGY" src="./assets/icon-chevron-right-tSQ.png"/>
+      </div>
+      <div class="historia-UtU">
+        <p class="nastavenia-pSY">Nastavenia</p>
+        <img class="icon-chevron-right-9zc" src="./assets/icon-chevron-right-dcp.png"/>
+      </div>
+      <div class="historia-eAg">
+        <p class="najastejie-otzky-ZoS">Najčastejšie otázky</p>
+        <img class="icon-chevron-right-HjS" src="./assets/icon-chevron-right-hRE.png"/>
+      </div>
+    </div>
+  </div>
+  <div class="auto-group-kky4-ZS4">
+    <img  id="cardLink" class="icon-contact-card-tDS" src="./assets/icon-contact-card-MjJ.png"/>
+    <img  id="listkyLink" class="icon-receipt-btY" src="./assets/icon-receipt-sbA.png"/>
+    <img class="auto-group-gh2c-vfv" src="./assets/auto-group-gh2c.png"/>
+  </div>
+</div>
+</body>
+
+<script>
+  // Function to handle navigation to zakladne.html
+  function navigateToListky() {
+    // Redirect to the zakladne.html file
+    window.location.href = 'nakup-listka-zklad.html';
+  }
+
+  function navigateToCard() {
+    // Redirect to the card.html file
+    window.location.href = 'frame-dopravna-karta.html';
+  }
+
+  function navigateToLogout() {
+    // Redirect to the logout.html file
+    window.location.href = 'login.html';
+  }
+
+  // Attach the function to the click event of the "Základné" element
+  document.getElementById('listkyLink').addEventListener('click', navigateToListky);
+  document.getElementById('cardLink').addEventListener('click', navigateToCard);
+  document.getElementById('logoutLink').addEventListener('click', navigateToLogout);
+</script>

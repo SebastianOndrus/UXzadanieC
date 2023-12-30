@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Frame Kupa listku</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700"/>
+  <link rel="stylesheet" href="./styles/frame-kupa-listku.css"/>
+</head>
+<body>
+<div class="frame-kupa-listku-wRn">
+  <div class="auto-group-jfj4-4mJ">Kúpa lístka</div>
+  <div class="auto-group-byiq-ZTA">
+    <div class="aktvne-listky-5gQ">
+      <div class="rectangle-3-oMW">
+      </div>
+      <div class="auto-group-ruku-hSt">
+        <p class="vybran-lstok-1Ta">Vybraný lístok</p>
+        <div class="auto-group-ayoi-hrC">
+          <img class="icon-ticket-pass-TKa" src="./assets/icon-ticket-pass-H9E.png"/>
+          <p class="item-0-ZdZ">30 dni</p>
+          <p class="item-0-ZdW">12</p>
+          <p class="item--67e">€</p>
+        </div>
+      </div>
+      <div class="line-1-CgU">
+      </div>
+      <p class="zkladn-95v">Zľavnený</p>
+    </div>
+    <p class="lstok-nadobudne-platnos-ihne-po-zakpen-SKv">Lístok nadobudne platnosť ihneď po zakúpení</p>
+    <div class="auto-group-k9el-LgC">
+      <div class="auto-group-bd3i-dvC">
+        <div class="auto-group-79xr-PeU">
+          <p class="stav-kreditu--LJp">Stav kreditu:</p>
+          <p class="k-hrade--3U8">K úhrade:</p>
+        </div>
+        <div class="auto-group-36xt-MUp">
+          <p class="item-430-6hJ">14.30</p>
+          <p class="item-0-cvY">12.00</p>
+        </div>
+        <div class="auto-group-hrx4-jEU">
+          <p class="item--TAU">€</p>
+          <p class="item--kvG">€</p>
+        </div>
+      </div>
+      <img class="line-3-Fs2" src="REPLACE_IMAGE:77:353"/>
+      <div id="zaplatitLink" class="platba-kreditom-CXN">
+        <img class="icon-wallet-XZe" src="./assets/icon-wallet.png"/>
+        <p class="zaplati-e8U">Zaplatiť</p>
+      </div>
+    </div>
+    <img id="backLink" class="icon-back-square-JTv" src="./assets/icon-back-square-bEU.png"/>
+  </div>
+  <div class="auto-group-rgf6-qTr">
+    <img class="icon-contact-card-AFE" src="./assets/icon-contact-card-Sap.png"/>
+    <img class="icon-receipt-HKr" src="./assets/icon-receipt.png"/>
+    <img class="icon-person-outline-p4t" src="./assets/icon-person-outline-Jdr.png"/>
+  </div>
+</div>
+</body>
+
+<script>
+  function navigateBack() {
+    window.location.href = 'nakup-listka-zlavnen.html';
+  }
+  function navigateToPayment() {
+    window.location.href = 'nakup-listka-zaklad.html';
+  }
+  document.getElementById('backLink').addEventListener('click', navigateBack);
+  document.getElementById('zaplatitLink').addEventListener('click', navigateToPayment);
+</script>
